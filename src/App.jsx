@@ -23,11 +23,11 @@ function App() {
 
           <div className="mb-6">
             <h3 className="text-2xl font-bold mb-3">
-              Experience
+              Project
             </h3>
 
             <div className="flex flex-wrap gap-3">
-              {profile.experience.map((item, index) => (
+              {profile.project.map((item, index) => (
                 <span
                   key={index}
                   className="bg-gray-200 px-4 py-2 rounded-full"
