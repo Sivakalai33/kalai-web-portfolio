@@ -19,8 +19,7 @@ appointment booking, and API development.
   `,
 
   project: [
-    "Built Online Doctor Appointment System",
-    "Worked on Full Stack Projects"
+    "Built Doctor Appointment Management System"
   ],
 
   certifications: [
@@ -30,7 +29,6 @@ appointment booking, and API development.
   expertise: [
     "React.js",
     "JavaScript",
-    "Node.js",
     "Flask / Python",
     "MySQL",
     "HTML",
