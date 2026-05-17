@@ -48,7 +48,7 @@ appointment booking, and API development.
 
   projects: [
     {
-      title: "Doctor Appointment System",
+      title: "Doctor Appointment Management System",
 
       overview:
         "A full-stack web application to book and manage doctor appointments.",
@@ -69,10 +69,10 @@ Backend built with Flask and MySQL, frontend with React.
       ],
 
       github:
-        "https://github.com/Sivakalai33/Online-Doctor-Appointment-Booking-System",
+        "https://github.com/Sivakalai33/Doctor-Appointment-Management-System",
 
       youtube:
-        "https://youtube.com/your-demo-video"
+        "https://youtu.be/icsHVCj9yGo"
     }
   ]
 };
