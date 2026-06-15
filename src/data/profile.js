@@ -19,7 +19,8 @@ appointment booking, and API development.
   `,
 
   project: [
-    "Built Doctor Appointment Management System"
+    "Built Doctor Appointment Management System",
+    "JobLite"
   ],
 
   certifications: [
