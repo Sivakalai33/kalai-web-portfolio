@@ -72,6 +72,33 @@ Backend built with Flask and MySQL, frontend with React.
 
       youtube:
         "https://youtu.be/icsHVCj9yGo"
+    },
+    {
+      title: "JobLite",
+
+      overview:
+        `JobLite is a web-based job portal system that allows users to apply for jobs, while admins can manage job postings.
+The system supports role-based authentication (Admin & User) and provides a simple job browsing and application workflow.`,
+
+      technical: `
+Developed JobLite, a web-based job portal system where users can register, login, browse job listings, and apply for jobs online. 
+Administrators can manage job postings and control user activities.
+Built using frontend with React, Flask(Python) and MySQL with role-based authentication and application management features.`,
+
+      techStack: [
+        "React",
+        "Flask",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+
+      github:
+        "https://github.com/Sivakalai33/Joblite",
+
+      youtube:
+        "https://youtu.be/BzY3UASNLGg"
     }
   ]
 };
